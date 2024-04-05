@@ -1,3 +1,5 @@
+Django JWT Authentication API:
+
 This Django JWT Authentication API project provides a robust backend solution for user authentication using JSON Web Tokens (JWT). It offers comprehensive functionality including user registration, login, password change, and password reset, all integrated with a secure authentication mechanism.
 
 Features:
